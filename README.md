@@ -10,3 +10,4 @@ Hands-on-Tensorflow
 6. Building a feature extraction model 
 7. Fine-tuning the feature extraction model 
 8. Viewing training results on TensorBoard
+9. Streamlit app to make predictions on our own images
